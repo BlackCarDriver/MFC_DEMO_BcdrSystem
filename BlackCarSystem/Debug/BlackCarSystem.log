@@ -1,0 +1,21 @@
+﻿Build started 12/28/2018 9:40:39 PM.
+     1>Project "E:\代码保存（桌面）\RublishCode\BlackCarSystem\BlackCarSystem\BlackCarSystem.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\软件\vs2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\BlackCarSystem.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Student.cpp
+         Student.cpp
+       Link:
+         D:\软件\vs2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\代码保存（桌面）\RublishCode\BlackCarSystem\Debug\BlackCarSystem.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"D:\软件\vs2013\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"E:\代码保存（桌面）\RublishCode\BlackCarSystem\Debug\BlackCarSystem.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\代码保存（桌面）\RublishCode\BlackCarSystem\Debug\BlackCarSystem.lib" /MACHINE:X86 Debug\BlackCarSystem.res
+         Debug\BlackCarSystem.obj
+         Debug\BlackCarSystemDlg.obj
+         Debug\dialog1.obj
+         Debug\dialog2.obj
+         Debug\LittleTool.obj
+         Debug\Managment.obj
+         Debug\stdafx.obj
+         Debug\Student.obj
+         BlackCarSystem.vcxproj -> E:\代码保存（桌面）\RublishCode\BlackCarSystem\Debug\BlackCarSystem.exe
+     1>Done Building Project "E:\代码保存（桌面）\RublishCode\BlackCarSystem\BlackCarSystem\BlackCarSystem.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.39

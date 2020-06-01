@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\blackground">
+      <UniqueIdentifier>{3c107340-bc17-4983-aecd-79702862a3ab}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\blackground">
+      <UniqueIdentifier>{0e3ac468-2827-4d8c-be6e-0d516816e8b3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\dialog">
+      <UniqueIdentifier>{7d972caa-8f1d-42cd-9ea2-a168d58720ff}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\other">
+      <UniqueIdentifier>{044eb182-974b-420f-ad8d-82764314a8c3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\dialog">
+      <UniqueIdentifier>{ad1530ae-a455-442b-abd9-e7cddfed6e59}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\other">
+      <UniqueIdentifier>{b0506d11-efbb-48df-996b-89394acdbf79}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Managment.h">
+      <Filter>Header Files\blackground</Filter>
+    </ClInclude>
+    <ClInclude Include="Student.h">
+      <Filter>Header Files\blackground</Filter>
+    </ClInclude>
+    <ClInclude Include="LittleTool.h">
+      <Filter>Header Files\blackground</Filter>
+    </ClInclude>
+    <ClInclude Include="BlackCarSystemDlg.h">
+      <Filter>Header Files\dialog</Filter>
+    </ClInclude>
+    <ClInclude Include="dialog1.h">
+      <Filter>Header Files\dialog</Filter>
+    </ClInclude>
+    <ClInclude Include="dialog2.h">
+      <Filter>Header Files\dialog</Filter>
+    </ClInclude>
+    <ClInclude Include="BlackCarSystem.h">
+      <Filter>Header Files\other</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>Header Files\other</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>Header Files\other</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>Header Files\other</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="LittleTool.cpp">
+      <Filter>Source Files\blackground</Filter>
+    </ClCompile>
+    <ClCompile Include="Managment.cpp">
+      <Filter>Source Files\blackground</Filter>
+    </ClCompile>
+    <ClCompile Include="Student.cpp">
+      <Filter>Source Files\blackground</Filter>
+    </ClCompile>
+    <ClCompile Include="BlackCarSystemDlg.cpp">
+      <Filter>Source Files\dialog</Filter>
+    </ClCompile>
+    <ClCompile Include="dialog1.cpp">
+      <Filter>Source Files\dialog</Filter>
+    </ClCompile>
+    <ClCompile Include="dialog2.cpp">
+      <Filter>Source Files\dialog</Filter>
+    </ClCompile>
+    <ClCompile Include="BlackCarSystem.cpp">
+      <Filter>Source Files\other</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Source Files\other</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="BlackCarSystem.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\BlackCarSystem.rc2">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\BlackCarSystem.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
